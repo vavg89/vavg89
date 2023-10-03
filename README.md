@@ -1,5 +1,6 @@
-🚀 Perfil:
-Cuento con experiencia comprobable en tecnologías como: React, Redux, Node.js, Express, y bases de datos PostgreSQL, entre otras. Estoy orientado a la mejora y el aprendizaje continuo, comprometido con la entrega de soluciones web de alta calidad y rendimiento. Tengo habilidades en la escritura de código tanto en el back-end como en el front-end y capacidad para brindar soporte y mantenimiento a las aplicaciones y sistemas internos de la empresa, así como atención al cliente de manera directa. Soy proactivo, dinámico y responsable, y mi background en el área administrativa refuerza mi capacidad para trabajar en equipo y analizar datos de forma masiva.
+🚀 Contactame , +54 1127051235 , Vavg89.ar@gmail.com o busca mi enlace a linkedin o a mi portafolio  en mi perfil . 
+ 
+¿quien soy?, Apasionado desarrollador web Full Stack con experiencia comprobable en tecnologías como: React, Redux, Node.js, Express, y bases de datos PostgreSQL, entre otras. Estoy orientado a la mejora y el aprendizaje continuo, comprometido con la entrega de soluciones web de alta calidad y rendimiento. Tengo habilidades en la escritura de código tanto en el back-end como en el front-end y capacidad para brindar soporte y mantenimiento a las aplicaciones y sistemas internos de la empresa, así como atención al cliente de manera directa. Soy proactivo, dinámico y responsable, y mi background en el área administrativa refuerza mi capacidad para trabajar en equipo y analizar datos de forma masiva.
 
 🛠️ Tecnologías:
 JavaScript, HTML, CSS3, React, Node.js, Express, Visual Studio Code, MySQL, PostgreSQL, Sequelize, Git Flow, GitHub Desktop, Trello, Jira, Selenium, Postman, MercadoPago, Firebase, Bootstrap, Sigma, bcryptjs, jsonwebtoken.
@@ -8,21 +9,25 @@ JavaScript, HTML, CSS3, React, Node.js, Express, Visual Studio Code, MySQL, Post
 Full Stack Web Developer. Henry Bootcamp. 800 horas de cursado teórico-práctico. 2023.
 Instituto de formación profesional Ayacucho, Título obtenido: Asistente administrativo de empresas. 2006–2008.
 Bachiller en Ciencias y tecnología, U.E.N. Felipe Larrazábal 1997–2004.
+
 📚 Educación Complementaria:
 Curso: Base de datos con MySQL y SQLite. Udemy. Argentina 2023.
 Curso: Software Testing Master Class. Udemy. Argentina 2022.
+
 🌐 Idiomas:
 Inglés B2.
 Español nativo.
+
 🚧 Proyectos:
 E-Commerce pfadmin
 URL: https://shop.pfadmin.online/
 Junio 2023 - Actualidad
+
 🎓 Experiencia académica:
 Henry Proyecto Final
+
 💼 Experiencia:
 FreeLancer (Libre Ejercicio). Argentina
-
 Full Stack web Developer, Ago. 2021 – Presente.
 Desarrollar nuevas funcionalidades e implementarlas.
 Desarrollar las aplicaciones Web.
