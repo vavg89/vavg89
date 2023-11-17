@@ -1,4 +1,4 @@
-🚀 Contactame , +54 1127051235 , Vavg89.ar@gmail.com o busca mi enlace a linkedin o a mi portafolio  en mi perfil . 
+🚀 Contactame al +54 1127051235 , o ingresa a mi portafolio  en  https://vavgportfolio.web.app . 
  
 ¿quien soy?, Apasionado desarrollador web Full Stack con experiencia comprobable en tecnologías como: React, Redux, Node.js, Express, y bases de datos PostgreSQL, entre otras. Estoy orientado a la mejora y el aprendizaje continuo, comprometido con la entrega de soluciones web de alta calidad y rendimiento. Tengo habilidades en la escritura de código tanto en el back-end como en el front-end y capacidad para brindar soporte y mantenimiento a las aplicaciones y sistemas internos de la empresa, así como atención al cliente de manera directa. Soy proactivo, dinámico y responsable, y mi background en el área administrativa refuerza mi capacidad para trabajar en equipo y analizar datos de forma masiva.
 
