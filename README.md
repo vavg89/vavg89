@@ -3,7 +3,7 @@
 ¿quien soy?, Apasionado desarrollador web Full Stack con experiencia comprobable en tecnologías como: React, Redux, Node.js, Express, y bases de datos PostgreSQL, entre otras. Estoy orientado a la mejora y el aprendizaje continuo, comprometido con la entrega de soluciones web de alta calidad y rendimiento. Tengo habilidades en la escritura de código tanto en el back-end como en el front-end y capacidad para brindar soporte y mantenimiento a las aplicaciones y sistemas internos de la empresa, así como atención al cliente de manera directa. Soy proactivo, dinámico y responsable, y mi background en el área administrativa refuerza mi capacidad para trabajar en equipo y analizar datos de forma masiva.
 
 🛠️ Tecnologías:
-JavaScript, HTML, CSS3, React, Node.js, Express, Visual Studio Code, MySQL, PostgreSQL, Sequelize, Git Flow, GitHub Desktop, Trello, Jira, Selenium, Postman, MercadoPago, Firebase, Bootstrap, Sigma, bcryptjs, jsonwebtoken.
+JavaScript, HTML, CSS3, React, Node.js, Express, Visual Studio Code, MySQL, PostgreSQL, Sequelize, Git Flow, GitHub Desktop, Trello, Jira, Selenium, Postman, MercadoPago, Firebase, Bootstrap, figma, bcryptjs, jsonwebtoken, vue, vuex, pinia.
 
 🎓 Educación profesional:
 Full Stack Web Developer. Henry Bootcamp. 800 horas de cursado teórico-práctico. 2023.
